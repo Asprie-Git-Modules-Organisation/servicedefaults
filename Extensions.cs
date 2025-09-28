@@ -115,4 +115,6 @@ public static class Extensions
 
         return app;
     }
+
+    //Empty comment to generate a diff
 }
